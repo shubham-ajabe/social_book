@@ -30,4 +30,4 @@ Social Book   is an open-source project, and we welcome contributions from fello
 
 ### **Technologies Used**
 
-* [List the technologies used in your project, e.g. HTML, CSS, JavaScript, React, etc.]
+* HTML, CSS, Python, SQL
